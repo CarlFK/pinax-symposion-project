@@ -27,7 +27,7 @@ Create a virtual environment where your dependencies will live::
 
 Make the project directory your working directory::
 
-    $ cd symposion_project
+    $ cd pinax-symposion-project/symposion_project/`
 
 Install conference project dependencies::
 
